@@ -1,3 +1,4 @@
+```Only Works on``` (https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 # PLOTIX
 ## Plotting made easy.
 ![Plotix_logo](https://user-images.githubusercontent.com/70194206/112802798-3e4f3200-9090-11eb-90d0-05c5b498944f.jpg)
