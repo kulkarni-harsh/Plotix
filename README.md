@@ -43,9 +43,6 @@ Clone the Repository and run the .exe file
 
 * [@kulkarni-harsh] (https://github.com/kulkarni-harsh) 📖
 
-## Vote
-This is my first ever project. If you have liked this project, please vote in the link below.<br /> Thanks.<br />
-[Vote Here](https://twtcodejam.net/timathon/team/665/)
 
 ## Contact
 
